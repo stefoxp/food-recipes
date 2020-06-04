@@ -1,4 +1,3 @@
-# My recipes
+# Le mie ricette
 
-- [sourdough](sourdough)
-
+- [Lievito madre](lievito_madre)
